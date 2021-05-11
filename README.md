@@ -1,2 +1,1 @@
-New Account: @DenWav
-====================
+# [New Account: @DenWav](https://github.com/DemonWav)
